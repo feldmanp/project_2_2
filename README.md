@@ -7,3 +7,7 @@ We are building a robo-advisor using LEX to provide assistance in trading equiti
 
 ## If time allows 
 We can add a prediction using different trading strategy for the stock (i.e bollinger bands, MA crossover etc.)
+
+<br>
+
+![](./mindmap.png))
