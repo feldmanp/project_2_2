@@ -10,4 +10,4 @@ We can add a prediction using different trading strategy for the stock (i.e boll
 
 <br>
 
-![](./mindmap.png))
+![](./Resources/mindmap.png)
