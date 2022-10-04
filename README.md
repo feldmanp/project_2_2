@@ -14,7 +14,7 @@
 
 ### An overview of the project: 
 <p align="center">
-  <img width="600" height="350" src="./Resources/mindmap.png">
+  <img width="650" height="350" src="./Resources/mindmap.png">
 </p>
 ---
 
@@ -27,11 +27,57 @@
 
 ### 1. Access AWS LEX bots 
 
+### The user will navigate into this interface
 
-### 2. Choose stock and holding period 
+<p align="center">
+  <img width="650" height="350" src="">
+</p>
 
+<br>
+
+### 2. Input stock and holding period 
+
+### User will tell the bot about their stock of interest and holding period:  
+
+<p align="center">
+  <img width="650" height="350" src="">
+</p>
+
+**Note:** 
+- The user must give **stock code** not the stock name. 
+- The bot will produce price forecast for **a maximum of 3 months** worth of data. 
+
+<br>
 
 ### 3. View results 
+
+### The stock performance forecast: 
+<p align="center">
+  <img width="650" height="350" src="">
+</p>
+
+### Technical analysis (Sharpe Ratio & Sortino Ratio): 
+<p align="center">
+  <img width="650" height="350" src="">
+</p>
+
+### Sharpe Ratio: 
+
+It gives insights about risk-adjusted performance of the stock. The mathematical expression is stock return rate minus risk free asset return rate, then divided by the total standard deviation of the stock return. 
+
+For more information about Sharpe Ratio, visit: https://www.investopedia.com/terms/s/sharperatio.asp
+<br>
+
+### Sortino ratio: 
+
+Sortino ratio also gives insights about the risk-adjusted performance of the stocks. While it is very similar with Sharpe Ratio, the difference is that Sortino Ratio uses the **downside standard deviation** rather than total standard deviation like Sharpe Ratio. 
+
+**For more information about Sortino Ratio, visit: https://www.investopedia.com/terms/s/sortinoratio.asp. 
+
+### Confidence level on the model
+<p align="center">
+  <img width="650" height="350" src="">
+</p>
 
 <br>
 
