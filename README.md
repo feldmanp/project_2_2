@@ -83,7 +83,7 @@ Sortino ratio also gives insights about the risk-adjusted performance of the sto
 ***Evaluation metrics for timeseries data prediction***
 
 <p align="center">
-  <img width="650" height="350" src="Prophet_evaluation_1.png">
+  <img width="650" height="350" src="./Resources/Prophet_evaluation_1.png">
 </p>
 
 ***Precision-Recall Curve (not learnt in class):***
