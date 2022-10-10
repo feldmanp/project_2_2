@@ -13,7 +13,7 @@
 <br>
 
 ### An overview of the project: 
-![](./Resources/mindmap.png)
+![](./Resources/mindmap)
 ---
 
 <br>
