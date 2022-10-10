@@ -102,14 +102,13 @@ Source: https://scikit-learn.org/stable/install.html
 
 ***Tensor Flow***
 
-# Requires the latest pip
-pip install --upgrade pip
+1. pip install --upgrade pip
 
-# Current stable release for CPU and GPU
-pip install tensorflow
 
-# Or try the preview build (unstable)
-pip install tf-nightly
+2. pip install tensorflow
+
+
+3. pip install tf-nightly
 
 Source: https://www.tensorflow.org/install
 
