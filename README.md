@@ -65,6 +65,8 @@
 
 It gives insights about risk-adjusted performance of the stock. The mathematical expression is stock return rate minus risk free asset return rate, then divided by the total standard deviation of the stock return. 
 
+![](Resources/Sharpe_Sortino_AAPL.png)
+
 For more information about Sharpe Ratio, visit: https://www.investopedia.com/terms/s/sharperatio.asp
 <br>
 
@@ -75,10 +77,16 @@ Sortino ratio also gives insights about the risk-adjusted performance of the sto
 **For more information about Sortino Ratio, visit: https://www.investopedia.com/terms/s/sortinoratio.asp. 
 
 ### Evaluating the model
+
+***Evaluation metrics for timeseries data prediction***
+
+<p align="center">
+  <img width="650" height="350" src="Prophet_evaluation_1.png">
+</p>
+
 <p align="center">
   <img width="650" height="350" src="">
 </p>
-
 
 ***Precision-Recall Curve (not learnt in class):***
 
@@ -157,6 +165,9 @@ Source: https://facebook.github.io/prophet/docs/installation.html
 
 ### Step 1: Input stock code and holding period to Robo Advisor. 
 
-![]()
+![](Resources/Prophet_input.png)
 
-### Step 2: View 
+### Step 2: Make the prediction using ML models
+### View - Prophet
+
+![](Resources/Prophet_pred.png)
