@@ -83,6 +83,53 @@ Sortino ratio also gives insights about the risk-adjusted performance of the sto
 
 ### Installation guide: 
 
+***Hvplot***
+
+conda install -c pyviz hvplot
+
+Source: https://hvplot.holoviz.org/getting_started/installation.html
+
+<br>
+
+***Scikit-learn***
+
+pip install -U scikit-learn
+
+Source: https://scikit-learn.org/stable/install.html
+
+<br>
+
+
+***Tensor Flow***
+
+# Requires the latest pip
+pip install --upgrade pip
+
+# Current stable release for CPU and GPU
+pip install tensorflow
+
+# Or try the preview build (unstable)
+pip install tf-nightly
+
+Source: https://www.tensorflow.org/install
+
+<br>
+
+***Yahoo Finance***
+
+!pip install yfinance
+
+Source: https://blog.quantinsti.com/historical-market-data-python-api/
+
+***Prophet***
+
+
+python -m pip install prophet
+ 
+
+Source: https://facebook.github.io/prophet/docs/installation.html 
+
+
 --- 
 <br>
 
@@ -92,7 +139,7 @@ Sortino ratio also gives insights about the risk-adjusted performance of the sto
 > ### ***Sam wants to invest in APPLE (stock code: AAPL) and he wants to hold the stock for 3 months. As an investor, Sam would like to get a good understanding about his investment idea. Sam would like to know th following:***
 > <br>
 
-> ### 1. What is the investment return after 12 months? 
+> ### 1. What is the investment return after 3 months? 
 > ### 2. How confident is robo advisor with the suggested return?  
 > ### 3. How are the risks?  
 > ### 4. Is there a way to improve the investment return results?
