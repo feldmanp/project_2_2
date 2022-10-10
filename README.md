@@ -173,3 +173,5 @@ Source: https://facebook.github.io/prophet/docs/installation.html
 ### View - Prophet
 
 ![](Resources/Prophet_pred.png)
+
+![](Resources/Prophet_plot.png)
