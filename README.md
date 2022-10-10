@@ -65,7 +65,7 @@
 
 It gives insights about risk-adjusted performance of the stock. The mathematical expression is stock return rate minus risk free asset return rate, then divided by the total standard deviation of the stock return. 
 
-![](Resources/Sharpe_Sortino_AAPL.png)
+![](Resources/Sharpe_AAPL.png)
 
 For more information about Sharpe Ratio, visit: https://www.investopedia.com/terms/s/sharperatio.asp
 <br>
@@ -73,6 +73,8 @@ For more information about Sharpe Ratio, visit: https://www.investopedia.com/ter
 ### Sortino ratio: 
 
 Sortino ratio also gives insights about the risk-adjusted performance of the stocks. While it is very similar with Sharpe Ratio, the difference is that Sortino Ratio uses the **downside standard deviation** rather than total standard deviation like Sharpe Ratio. 
+
+![](Resources/Sortino_AAPL.png)
 
 **For more information about Sortino Ratio, visit: https://www.investopedia.com/terms/s/sortinoratio.asp. 
 
