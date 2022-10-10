@@ -86,11 +86,12 @@ Sortino ratio also gives insights about the risk-adjusted performance of the sto
   <img width="650" height="350" src="Prophet_evaluation_1.png">
 </p>
 
+***Precision-Recall Curve (not learnt in class):***
+
 <p align="center">
   <img width="650" height="350" src="">
 </p>
 
-***Precision-Recall Curve (not learnt in class):***
 
 > 'The precision-recall curve shows the tradeoff between precision and recall for different threshold. A high area under the curve represents both high recall and high precision, where high precision relates to a low false positive rate, and high recall relates to a low false negative rate. High scores for both show that the classifier is returning accurate results (high precision), as well as returning a majority of all positive results (high recall).' - Scikit-learnt 
 
