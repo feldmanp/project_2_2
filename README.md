@@ -30,7 +30,7 @@
 ### The user will navigate into this interface
 
 <p align="center">
-  <img width="650" height="350" src="">
+  <img width="300" height="550" src="Resources/lex1.png">
 </p>
 
 <br>
@@ -40,7 +40,7 @@
 ### User will tell the bot about their stock of interest and holding period:  
 
 <p align="center">
-  <img width="650" height="350" src="">
+  <img width="300" height="350" src="Resources/lex2.png">
 </p>
 
 **Note:** 
@@ -53,12 +53,12 @@
 
 ### The stock performance forecast: 
 <p align="center">
-  <img width="650" height="350" src="">
+  <img width="300" height="550" src="Resources/lex3.png">
 </p>
 
-### Technical analysis (Sharpe Ratio & Sortino Ratio): 
+### Using Moving average crossover trading algorithm: 
 <p align="center">
-  <img width="650" height="350" src="">
+  <img width="300" height="550" src="Resources/lex4.png">
 </p>
 
 ### Sharpe Ratio: 
