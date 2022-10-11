@@ -13,7 +13,7 @@
 <br>
 
 ### An overview of the project: 
-![](./Resources/mindmap.png)
+![](./Resources/mindmap(1).png)
 ---
 
 <br>
@@ -193,7 +193,7 @@ For ***machine learning model***, the project includes confusion matrix of the m
 
 ### ***Precision-Recall Curve (not learnt in class):***
 <p align="center">
-  <img width="650" height="350" src="./Precision-Recall Curve.png">
+  <img width="650" height="350" src="./Resources/Precision-Recall Curve.png">
 </p>
 
 
